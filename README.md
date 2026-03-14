@@ -11,10 +11,6 @@
 - Web Development
 - AI Projects
 
-🎯 Goal: Become a **Software Engineer**
-
----
-
 ### 🚀 Tech Stack
 
 - C++
