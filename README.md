@@ -17,6 +17,5 @@
 - HTML
 - CSS
 - JavaScript
-- React
 - Node.js
 - Git
