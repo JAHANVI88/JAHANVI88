@@ -5,7 +5,7 @@
 
 🌱 Currently learning **Full Stack Development**
 
-💻 Solved **250+ LeetCode Problems**
+💻 Solved **400+ LeetCode Problems**
 
 📊 Built projects in:
 - Web Development
