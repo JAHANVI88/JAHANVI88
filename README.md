@@ -24,10 +24,8 @@
 
 - 🎓 B.Tech in **Information Technology**, KIET Group of Institutions (2023 – 2027)
 - 🛠️ Building full-stack and AI-integrated platforms — real-time collaboration tools, RAG pipelines, and role-based access systems
-- 🧩 400+ DSA problems solved on LeetCode, 1600+ contest rating, top 15% globally
+- 🧩 400+ DSA problems solved on LeetCode
 - 🌱 Active open-source contributor — GirlScript Summer of Code (GSSoC) 2026
-- 🏆 Smart India Hackathon (SIH) 2025 qualifier · Round 2, International Hackathon 360° 4.0
-- 💬 Ask me about: React/Next.js architecture, RAG pipelines, RBAC systems, or system design fundamentals
 
 ---
 
