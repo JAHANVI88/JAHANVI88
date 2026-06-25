@@ -23,7 +23,7 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in **Information Technology**, KIET Group of Institutions (2023 – 2027)
-- 🛠️ Building full-stack and AI-integrated platforms — real-time collaboration tools, RAG pipelines, and role-based access systems
+- 🛠️ Building full-stack and AI-integrated platforms 
 - 🧩 400+ DSA problems solved on LeetCode
 - 🌱 Active open-source contributor — GirlScript Summer of Code (GSSoC) 2026
 
