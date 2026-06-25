@@ -83,54 +83,11 @@ Cloud & Tools
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
-🌟 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 InsightFlow</h3>
-      <p><i>Real-Time Collaborative Workspace</i></p>
-      <p>
-        A collaborative document editor with live multi-user editing, comments, and mentions, built on Liveblocks' WebSocket infrastructure. Includes RBAC and server-side authorization middleware, plus a Gemini-powered in-editor AI writing assistant.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <a href="https://github.com/jahanvi88">🔗 Repository (TODO: add link)</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎤 HireMind AI</h3>
-      <p><i>AI-Powered Interview Preparation Platform</i></p>
-      <p>
-        A RAG-based interview prep tool that generates role-specific questions from resumes using LangChain and Pinecone, with a voice-enabled mock interview system and Razorpay-backed credit billing.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <a href="https://github.com/jahanvi88">🔗 Repository (TODO: add link)</a>
-    </td>
-  </tr>
-</table>
-
-TODO: Replace the placeholder repository links above with the actual GitHub URLs for each project.
 
 
 
 
-📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jahanvi88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanvi88&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center"><i>Steady, consistent contributions across the year — see the activity graph below 👇</i></p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahanvi88&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
 
 📫 Connect With Me
 
